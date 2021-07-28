@@ -1,0 +1,32 @@
+ext.versions =
+        [
+                minSdk            : 24,
+                compileSdk        : 30,
+                toolVersion       : '29.0.2',
+                versionCode       : 1,
+                versionName       : '1.0.0',
+
+                // kotlin
+                kotlin_version    : '1.4.10',
+
+                // navigation
+                nav_version       : '2.3.1',
+
+                // gradle
+                gradle_version    : '4.2.1',
+
+                // appcompat
+                appcompat_version : '1.2.0',
+
+                // lifecycle - view model
+                lifecycle_version : '2.2.0',
+
+                // networking
+                networking_version: '1.0.2',
+
+                // dagger
+                dagger_version    : '2.24',
+
+                // room
+                room_version : '2.2.6',
+        ]
